@@ -2,7 +2,7 @@ import { useState, useRef } from "react";
 
 import amity from "../../assets/Images/amity.jpg";
 import Jaipuria from "../../assets/Images/Jaipuria.jpg";
-import Podar from "../../assets/Images/Podar.jpg"
+import podar from "../../assets/Images/podar.jpg"
 import Rcbs from "../../assets/Images/Rcbs.jpg";
 import Nirmala from "../../assets/Images/Nirmala.jpg";
 import Graphice from "../../assets/Images/Graphice.jpg";
@@ -21,7 +21,7 @@ import "./Partners.css"
 const Partners = () => {
 
     const logos = [
-        amity, Jaipuria, Podar, Rcbs, Nirmala,
+        amity, Jaipuria, podar, Rcbs, Nirmala,
         Graphice, Auro, Parul, ITBS, Jhanjeri,
         Ceumh, Conite, JRNRVU, suptech,
         design, TARUND, digital
