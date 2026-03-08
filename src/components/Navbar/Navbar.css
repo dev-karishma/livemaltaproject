@@ -216,3 +216,14 @@
 }
 
 
+@media (max-width:1024px){
+
+.nav-links{
+  display:none;
+}
+
+.hamburger{
+  display:block;
+}
+
+}
